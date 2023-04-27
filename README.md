@@ -1,1 +1,2 @@
-# SOK1006
+# SOK1006 Mikroøkonomi
+Arbeidskrav og Mappeoppgaver
